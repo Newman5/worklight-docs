@@ -9,10 +9,10 @@ Worklight is an open, protocol-first coordination system for distributed teams a
 
 This documentation site serves as the **Worklight Cinematic Universe (WCU)** hub, covering all major components:
 
-- **Worklight Lite & Dashboard** – The coordination bot and web dashboard  
-  → _[link to repo]_  
+- **Worklight Lite & Dashboard** – The coordination discord bot and web dashboard  
+  → _[worklight-lite-dashboard](https://github.com/Newman5/worklight-lite-dashboard)_  
 - **Worklight Beacon** – A community-powered feed reader and publisher  
-  → _[link to repo]_  
+  → _[worklight-beacon](https://github.com/Newman5/worklight-beacon)_  
 - **Use cases** – Including the ODIN Season of Collaboration, Chi Gong sessions, and symbolic tools like votive candles
 
 ---
